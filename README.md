@@ -101,3 +101,8 @@ Tsunami forecast area
 
 *This sound effect selection was based on [BSC24 Earthquake Warning Broadcast 24 Hours](https://ch.nicovideo.jp/bousai-share).
 *The sound for seismic intensity detection was created based on the sound effects from the [JQuake application](https://jquake.net/).
+
+#### Other Notes
+
+- The creator of the original project is created by him as of the creator.
+- Some translations may not be accurate and will be changed to ensure the correct translation.
