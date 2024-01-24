@@ -12,7 +12,9 @@ You can mainly see the following information.
 - **Tsunami forecast and tsunami observation information**
 
 > Information is received from DM-D.S.S (a service that distributes data directly from the Weather Service Support Center), so the information will arrive faster than from TV or smartphone apps.
+
 > *Data is updated using cloud variables. Please be careful as it may stop or have bugs. (Only on Scratch)
+
 > *It will not work if you are using New Scratcher or are not logged in. (Only on Scratch)
 
 The project works [like this](https://youtu.be/83u_s1SKq1I) (as of v1.3.1). [This is what happens] when there is a deep earthquake (https://youtu.be/n83NO49gfHk/)
