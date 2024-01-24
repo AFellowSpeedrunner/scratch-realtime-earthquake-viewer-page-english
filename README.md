@@ -17,7 +17,7 @@ You can mainly see the following information.
 
 > *It will not work if you are using New Scratcher or are not logged in. (Only on Scratch)
 
-The project works [like this](https://youtu.be/83u_s1SKq1I) (as of v1.3.1). [This is what happens] when there is a deep earthquake (https://youtu.be/n83NO49gfHk/)
+The project works [like this](https://youtu.be/83u_s1SKq1I) (as of v1.3.1). [This is what happens when there is a deep earthquake](https://youtu.be/n83NO49gfHk/). 
 
 ## Operation Guide
 
