@@ -1,9 +1,14 @@
 # scratch-realtime-earthquake-viewer-page
 
+**From v1.6, we have experimentally changed the cloud variable server from TurboWarp's server to use this page's own server. Accordingly, we have created the Terms of Use and Privacy Policy for this page. For more information, please see [Terms of Use/Privacy Policy] (terms.md). **
+Please note that [Scratch version](https://scratch.mit.edu/projects/636244032) and [TurboWarp version](https://turbowarp.org/636244032) have [Scratch privacy policy](https:/ /scratch.mit.edu/privacy_policy) and [TurboWarp's Privacy Policy](https://turbowarp.org/privacy.html).
+
 This is the code and English translation of the [Real-time Earthquake Viewer project](https://scratch.mit.edu/projects/636244032) created with Scratch and packaged using the [Turbowarp Packager](https://packager.turbowarp.org/#636244032).
 You can easily push to GitHub Pages, so give it a try. Since the materials are shared on Scratch, the images and audio in [/assets](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page/tree/main/assets) are subject to the [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.ja) license.
 
 ## Description in Scratch
+
+This is a project that uses cloud variables to receive earthquake and tsunami information in real time.
 
 You can mainly see the following information.
 
@@ -11,13 +16,24 @@ You can mainly see the following information.
 - **Real-time seismic intensity and Earthquake Early Warning Announcments (EEW)**
 - **Tsunami forecast and tsunami observation information**
 
-> Information is received from DM-D.S.S (a service that distributes data directly from the Weather Service Support Center), so the information will arrive faster than from TV or smartphone apps.
-
+> Information is received from DM-D.S.S (a service that distributes data directly from the Weather Service Support Center), so the information will arrive faster than from TV or smartphone apps. There is no guarantee that it will always work though.
 > *Data is updated using cloud variables. Please be careful as it may stop or have bugs. (Only on Scratch)
 
 > *It will not work if you are using New Scratcher or are not logged in. (Only on Scratch)
 
 The project works [like this](https://youtu.be/83u_s1SKq1I) (as of v1.3.1). [This is what happens when there is a deep earthquake](https://youtu.be/n83NO49gfHk/). 
+
+### About distribution and use in videos
+
+If you want to use the screen displayed on this page for distribution, videos, etc., you do not need to obtain individual permission. However, we cannot guarantee the stability or reliability of its operation, so please use it at your own risk.
+
+### Inquiries
+
+Inquiries regarding this project can be addressed at the following locations:
+
+- [Creator X](https://twitter.com/kotoho76)
+- [Scratch project page](https://scratch.mit.edu/projects/636244032)
+- [YouTube Community Post](https://www.youtube.com/post/UgkxGV7Jutqt9kMEByTHdihpdSBVYzcl0_Ue)
 
 ## Operation Guide
 
@@ -53,6 +69,7 @@ The screen changes automatically depending on the shindo level of shaking or ear
 
 - Earthquake Early Warning (re-distribution permission obtained) & earthquake information & tsunami information
 [Project DM(Disaster Mitigation)-Data Send Service](https://dmdata.jp/docs/telegrams/)
+
 - Earthquake information update (up to 2 days ago)
 [Meteorological Agency seismic intensity database search](https://www.data.jma.go.jp/svd/eqdb/data/shindo/)
 
@@ -104,5 +121,5 @@ Tsunami forecast area
 
 #### Other Notes
 
-- The creator of the original project is created by him as of the creator.
-- Some translations may not be accurate and will be changed to ensure the correct translation.
+- The original creator is [kohoto7](https://github.com/kotoho7).
+- Some translations may not be accurate and will be changed when noticed to ensure the correct translation.
